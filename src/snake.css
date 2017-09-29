@@ -13,3 +13,12 @@ canvas {
   border: 1px solid black;
   box-shadow: 5px 5px #777;
 }
+
+#message{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 500px;
+  height: 500px;
+  
+}
